@@ -1,12 +1,10 @@
 <template>
-  <div class="app">
-
-  </div>
+  <div class="Layout"></div>
 </template>
 
 <script>
 export default {}
 </script>
 
-<style lang="less">
+<style>
 </style>
