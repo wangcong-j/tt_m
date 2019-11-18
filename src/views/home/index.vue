@@ -1,11 +1,11 @@
 <template>
-  <div class="app">
-    <router-view />
-  </div>
+  <div class="home">home</div>
 </template>
 
 <script>
-export default {}
+export default {
+  name: 'home-index'
+}
 </script>
 
 <style lang="less"></style>
